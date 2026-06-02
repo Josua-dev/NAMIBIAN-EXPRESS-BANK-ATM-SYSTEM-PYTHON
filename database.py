@@ -1,6 +1,6 @@
 """
 Namibia EXPRESS ATM System - Database Module
-Handles account storage, retrieval, and persistence using JSON.
+Handles account storage, retrieval, and persistence using JSON. 
 """
 
 import json
